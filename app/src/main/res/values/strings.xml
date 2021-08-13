@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PAWSOME</string>
+    <string name="hello_dogs">Hello DOGS!</string>
+    <string name="search_dogs">Search Dogs...</string>
+    <string name="breed">Breed</string>
+    <string name="todo">TODO</string>
+    <string name="breed_details">Breed Details</string>
+    <string name="breed_name">Breed Name</string>
+</resources>
